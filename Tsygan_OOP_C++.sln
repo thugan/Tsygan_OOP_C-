@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tsygan_OOP_C++", "Tsygan_OOP_C++\Tsygan_OOP_C++.vcxproj", "{D520539D-250E-4AB4-BD2A-070ED9864EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Debug|x64.ActiveCfg = Debug|x64
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Debug|x64.Build.0 = Debug|x64
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Debug|x86.Build.0 = Debug|Win32
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Release|x64.ActiveCfg = Release|x64
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Release|x64.Build.0 = Release|x64
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Release|x86.ActiveCfg = Release|Win32
+		{D520539D-250E-4AB4-BD2A-070ED9864EBE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0DBCDA3-C2F3-47D3-B9D4-D3EDF70C4FE3}
+	EndGlobalSection
+EndGlobal
