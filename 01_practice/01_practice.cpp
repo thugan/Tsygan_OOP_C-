@@ -9,7 +9,7 @@ class pointer {
 public:
     void InitX()
     {
-        cout << "Enter x : "; cin >> x;
+        cout << "ENter x : "; cin >> x;
     }
     void InitY()
     {
